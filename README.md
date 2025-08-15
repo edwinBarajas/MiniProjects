@@ -38,3 +38,13 @@ Proyectos que exploran conceptos de IA y modelos entrenados:
 - **Visualización**: Processing, p5.js, matplotlib
 
 ---
+
+## 📩 Contacto
+
+Si quieres saber más sobre mi trabajo o colaborar en algún proyecto:
+
+Email: edwinronaldo602@gmail.com
+
+LinkedIn: [Tu Perfil](https://www.linkedin.com/in/edwin-barajas/)
+
+Portafolio Web: https://edwinbarajas.github.io/edwin_barajas/
