@@ -1,2 +1,40 @@
-# MiniProjects
-This is a repository where I will be uploading all the mini projects I'll be doing in processing, p5 and python, feel free to comment or or make recommendations, I'm here to learn and document my programming journey.
+# 🖥️ Portafolio de Proyectos
+
+Bienvenido a mi repositorio de proyectos.  
+Aquí encontrarás una colección de trabajos que he desarrollado como parte de mi aprendizaje y práctica en **programación, inteligencia artificial, algoritmos y automatización**.
+
+Este repositorio funciona como una muestra de mis habilidades y mi estilo de programación.
+---
+
+## 📂 Contenido
+
+Los proyectos se organizan en varias áreas:
+
+### 🔹 Algoritmos y Estructuras de Datos
+Animaciones e implementaciones de algoritmos conocidos, creados principalmente en **Processing** y **p5.js**:
+- **Dijkstra** – Visualización del algoritmo de caminos más cortos.
+- **BFS (Breadth-First Search)** – Búsqueda en anchura paso a paso.
+- **MST (Minimum Spanning Tree)** – Construcción de árboles de expansión mínima.
+- Otros algoritmos clásicos y experimentales.
+
+### 🔹 Automatización
+Scripts y herramientas para automatizar tareas repetitivas:
+- Automatización con **Python + Selenium**.
+- Capturas de pantalla y control del teclado/ratón con **PyAutoGUI**.
+- Procesamiento y organización de archivos con **pathlib** y otras librerías.
+
+### 🔹 Inteligencia Artificial y Machine Learning
+Proyectos que exploran conceptos de IA y modelos entrenados:
+- Redes neuronales **MLP** implementadas desde cero.
+- Modelos en **TensorFlow** y **Keras**.
+- Prácticas de análisis de datos y preprocesamiento.
+
+---
+
+## 🚀 Tecnologías utilizadas
+- **Lenguajes**: Python, Java (Processing), JavaScript (p5.js)
+- **Librerías IA**: NumPy, pandas, TensorFlow, Keras
+- **Automatización**: PyAutoGUI, Selenium
+- **Visualización**: Processing, p5.js, matplotlib
+
+---
