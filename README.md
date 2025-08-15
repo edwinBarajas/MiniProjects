@@ -45,6 +45,6 @@ Si quieres saber más sobre mi trabajo o colaborar en algún proyecto:
 
 Email: edwinronaldo602@gmail.com
 
-LinkedIn: [Tu Perfil](https://www.linkedin.com/in/edwin-barajas/)
+LinkedIn: [Mi Perfil](https://www.linkedin.com/in/edwin-barajas/)
 
-Portafolio Web: https://edwinbarajas.github.io/edwin_barajas/
+Portafolio Web: [Ver portafolio](https://edwinbarajas.github.io/edwin_barajas/)
